@@ -1,0 +1,202 @@
+.social_bookmark_ruler {
+	height: 40px;
+}
+
+.entry .social_bookmark_ruler,
+#main .social_bookmark_ruler,
+.content .social_bookmark_ruler,
+#content .social_bookmark_ruler,
+.wide_sidebar .social_bookmark_ruler {
+	height: 20px;
+}
+
+.social_bookmark a {
+	display: block;
+	padding-left: 18px;
+	padding-right: 6px;
+	margin-top: .1em;
+	margin-bottom: .1em;
+	float: left;
+	background-repeat: no-repeat;
+	white-space: nowrap;
+	line-height: 20px !important;
+	height: 20px !important;
+}
+
+.social_bookmark_actions a {
+	float: right;
+}
+
+.social_bookmark_actions a.email_entry {
+	padding-right: 0px;
+}
+
+.social_bookmark_extra a {
+	width: 136px;
+	overflow: hidden;
+	color: #11d !important;
+	background-image: url(../icons/icons.gif) !important;
+}
+
+.social_bookmark_extra a:hover {
+	color: #b11 !important;
+}
+
+.social_bookmark_extra a.help {
+	width: auto;
+}
+
+.social_bookmark_spacer {
+	clear: left;
+}
+
+.social_bookmark_extra {
+	position: absolute;
+	background: #fff;
+	color: #000;
+	border: solid 1px #999;
+	padding: 5px 5px;
+	margin-left: -1px;
+	max-width: 480px;
+	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+    z-index: 1000;
+}
+
+.social_bookmark a.email_entry {
+	background-image: url(../icons/email.gif);
+	background-position: left center;
+}
+
+.social_bookmark a.print_entry {
+	background-image: url(../icons/print.gif);
+	background-position: left center;
+}
+
+.social_bookmark a.facebook {
+	background-image: url(../icons/facebook.png);
+	background-position: left center;
+}
+
+.social_bookmark a.googleplus {
+	background-image: url(../icons/google+.png);
+	background-position: left center;
+}
+
+.social_bookmark a.pinterest {
+    background-image: url(../icons/pinterest.png);
+   	background-position: left center;
+}
+
+.social_bookmark a.twitter {
+	background-image: url(../icons/twitter.png);
+	background-position: left center;
+}
+
+.social_bookmark a.help {
+	background-position: 0px 0px;
+}
+
+.social_bookmark a.buzzup {
+	background-position: -16px -20px;
+}
+
+.social_bookmark a.current {
+	background-position: 0px -20px;
+}
+
+.social_bookmark a.delicious {
+	background-position: 0px -40px;
+}
+
+.social_bookmark a.digg {
+	background-position: 0px -620px;
+}
+
+.social_bookmark a.diigo {
+	background-position: 0px -60px;
+}
+
+.social_bookmark a.fark {
+	background-position: 0px -100px;
+}
+
+.social_bookmark a.google {
+	background-position: 0px -120px;
+}
+
+.social_bookmark a.instapaper {
+	background-position: 0px -460px;
+}
+
+.social_bookmark a.linkedin {
+	background-position: 0px -140px;
+}
+
+.social_bookmark a.msn {
+	background-position: 0px -598px;
+}
+
+.social_bookmark a.mixx {
+	background-position: 0px -360px;
+}
+
+.social_bookmark a.myspace {
+	background-position: 0px -180px
+}
+
+.social_bookmark a.newsvine {
+	background-position: 0px -200px;
+}
+
+/*.social_bookmark a.pinterest {
+	background-position: 0px -520px;
+}*/
+
+.social_bookmark a.pocket {
+	background-position: 0px -420px;
+}
+
+.social_bookmark a.propeller {
+	background-position: 0px -220px;
+}
+
+.social_bookmark a.readability {
+	background-position: 0px -558px;
+}
+
+.social_bookmark a.reddit {
+	background-position: 0px -240px;
+}
+
+.social_bookmark a.slashdot {
+	background-position: 0px -260px;
+}
+
+.social_bookmark a.sphinn {
+	background-position: 0px -280px;
+}
+
+.social_bookmark a.stumbleupon {
+	background-position: 0px -579px;
+}
+
+.social_bookmark a.tipd {
+	background-position: 0px -320px;
+}
+
+.social_bookmark a.tumblr {
+	background-position: 0px -480px;
+}
+
+.social_bookmark a.yahoo {
+	background-position: 0px -500px;
+}
+
+
+.social_bookmark_narrow a {
+	width: 60px;
+	padding-right: 5px;
+}
